@@ -1,0 +1,6 @@
+data/
+*.jpg
+*.png
+un.py
+extract_object.py
+__pycache__/
