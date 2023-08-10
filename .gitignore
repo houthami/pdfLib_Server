@@ -4,3 +4,4 @@ data/
 un.py
 extract_object.py
 __pycache__/
+.vscode
