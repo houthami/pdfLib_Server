@@ -35,5 +35,5 @@ for mor information click here https://fastapi.tiangolo.com/
  `pip install rembg=2.0.35 `
 
  ## Note
-  You may have to add Popp to PATH to us pdf2image library
+  You may have to add Poppler to PATH to us pdf2image library
   [Download the latest version of Poppler (zip file)](https://github.com/oschwartz10612/poppler-windows/releases/)
